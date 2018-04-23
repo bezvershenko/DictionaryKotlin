@@ -4,7 +4,7 @@ Commands syntax:
 
 1. - set hello world (Adding the pair 'hello-world')
 
-2. - remove key=hello (Removing the pair with key 'hello') \n
+2. - remove key=hello (Removing the pair with key 'hello')
    - remove value=world (Removing the pair with value 'world')
    - remove key=hello value=world (Removing the pair 'hello-world')
    
